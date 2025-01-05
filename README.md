@@ -9,7 +9,7 @@ The aim of this work is to explore the impact of class imbalance on machine lear
 # Versions
 
 The versions of the operating systems used to develop and test this application is:
-- macOS 
+- macOS 12.6
   
 Python Versions:
 - 3.10.0
